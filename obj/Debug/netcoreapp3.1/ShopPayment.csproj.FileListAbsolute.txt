@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\bin\Debug\netcoreapp3.1\ShopPayment.exe
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\bin\Debug\netcoreapp3.1\ShopPayment.deps.json
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\bin\Debug\netcoreapp3.1\ShopPayment.runtimeconfig.json
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\bin\Debug\netcoreapp3.1\ShopPayment.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\bin\Debug\netcoreapp3.1\ShopPayment.dll
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\bin\Debug\netcoreapp3.1\ShopPayment.pdb
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\obj\Debug\netcoreapp3.1\ShopPayment.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\obj\Debug\netcoreapp3.1\ShopPayment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\obj\Debug\netcoreapp3.1\ShopPayment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\obj\Debug\netcoreapp3.1\ShopPayment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\obj\Debug\netcoreapp3.1\ShopPayment.dll
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\obj\Debug\netcoreapp3.1\ShopPayment.pdb
+C:\Users\Admin\source\repos\oop\oop\ShopPayment\obj\Debug\netcoreapp3.1\ShopPayment.genruntimeconfig.cache
